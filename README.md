@@ -33,3 +33,5 @@ write a c program to do the above
 rewrite c code to output excel data in comma delimited excel
 - acc1_excel.c
 
+![image](https://user-images.githubusercontent.com/58069246/205521953-1087558c-2573-44a3-93de-484b45add42f.png)
+
