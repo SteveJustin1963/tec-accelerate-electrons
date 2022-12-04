@@ -35,3 +35,5 @@ rewrite c code to output excel data in comma delimited excel
 
 ![image](https://user-images.githubusercontent.com/58069246/205521953-1087558c-2573-44a3-93de-484b45add42f.png)
 
+rewrite code to output ascii character map of result
+- acc1_ascii.c
