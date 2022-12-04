@@ -29,3 +29,7 @@ The equation can be solved numerically using finite-difference methods. The grap
 
 write a c program to do the above
 - acc1-c
+
+rewrite c code to output excel data in comma delimited excel
+- acc1_excel.c
+
