@@ -10,7 +10,8 @@ list 4 ways to accelerate electrons
 how do you do point 4
 
 Increasing the mass of electrons can be achieved in a variety of ways including using a particle accelerator, such as a cyclotron, or a linear accelerator, to increase the energy of the particles. Additionally, the mass of electrons can be increased by using an electron beam ion source to add additional electrons to the beam.
----
+
+
 list some maths that describe an "electron beam ion source "
 
 1. The Lorentz force equation: F = qE + qv x B
@@ -20,7 +21,7 @@ list some maths that describe an "electron beam ion source "
 5. The Helmholtz equation: ∇2A + k2A = 0
 6. The Navier-Stokes equations: ∂u/∂t + (u·∇)u = -1/ρ∇p + ν∇2u
 
----
+
 use the Poisson equation: ∇2φ = -ρ/ε to plot a 2 dimension graph around an accelerated electron beam ion source
 
 
